@@ -192,6 +192,61 @@
                 </div>
             </div>
         </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Permohonan Pengunduran Diri Sebagai Mahasiswa</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://docs.google.com/forms/d/1qos9BXt4AzirrgHsRZUt16BMdjpZL8WL76yPkn1MnZo/edit" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Permohonan Pengunduran Diri Sebagai Mahasiswa</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://docs.google.com/forms/d/1qos9BXt4AzirrgHsRZUt16BMdjpZL8WL76yPkn1MnZo/edit" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Formulir Pengantar T.A</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://docs.google.com/forms/d/1qQqgXQWN3N-NRM6031C8stRt23w4QU1hu7PhVlJE7hg/edit" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Formulir Keterangan Aktif Kuliah</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://docs.google.com/forms/d/1BwY_V3d5WgG0LdLePHly-9bo-7Kem1jBUUxMd6cig0A/edit" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Kuesioner Pengelolaan Keuangan, Sarana & Prasarana</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Google Form</h6>
+                    <a href="https://docs.google.com/forms/d/10Ae7F0CUmV446xUe6KJce8FNA51QUsNUqqAvNmVBnRw/edit" class="btn btn-primary" target="_link">
+                        <i class="fa-solid fa-link"></i> Buka Link
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 @endsection
